@@ -1,5 +1,5 @@
 # Twitch-account-gen
-Not a twitch gen with kasada :P (join discord)
+Not a twitch gen with kasada :P [(join discord)](https://discord.gg/XuGAPnAP45)
 
 
 
