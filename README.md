@@ -1,7 +1,7 @@
 # Twitch-account-gen & Kasada solver
 
 
-[discord.gg/nsl-solver](discord.gg/nsl-solver)
+[discord.gg/s2ZxG3sqdM](discord.gg/s2ZxG3sqdM)
 [https://nslsolver.com](https://nslsolver.com)
 
 # https://youtu.be/nmLt6mSo--8?si=Xk5kepWntI8AaUrO
